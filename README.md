@@ -132,9 +132,9 @@ pip install open3d -i https://pypi.tuna.tsinghua.edu.cn/simple
 import open3d as o3d
 
 if __name__ == '__main__':
-    pcd = o3d.io.read_point_cloud(r"./Data/bunny.ply")  # 读取点云路径
-    print("点云数目：", pcd)  					# 点云数目
-    o3d.visualization.draw_geometries([pcd])  # 打印点云
+    pcd = o3d.io.read_point_cloud(r"./Data/bunny.ply") 
+    print("number of points：", pcd) 
+    o3d.visualization.draw_geometries([pcd])  
 ```
 
 **If the `open3d` is installed successful, a `bunny` will be displayed at the viewer:**
