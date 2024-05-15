@@ -1,6 +1,6 @@
-[toc]
+![image-20240515162030448](./imgs/image-20240515162030448.png)
 
-The dataset will be updated after the paper is accepted by <Optica>  .
+The dataset will be updated after the paper is accepted by "Optica".
 
 # 01 Introduction
 
@@ -19,9 +19,9 @@ The traditional HDR techniques mainly include three categories: multi-exposure (
 3. **PL**: These methods utilize a polarizer and a analyzer to filter out specular reflection that it is inevitably lead to the decrease of signal-to-noise ratio (SNR) of images. 
 
 The essence of the PS algorithm is to calculate the following funciton:
-$$
-{\varphi ^c}\left( {{u^c},{v^c}} \right) = \arctan \frac{{M\left( {{u^c},{v^c}} \right)}}{{D\left( {{u^c},{v^c}} \right)}} = \arctan \left[ {\frac{{\sum\limits_{n = 0}^{N - 1} {I_n^c\left( {{u^c},{v^c}} \right)\sin \left( {2n\pi /N} \right)} }}{{\sum\limits_{n = 0}^{N - 1} {I_n^c\left( {{u^c},{v^c}} \right)\cos \left( {2n\pi /N} \right)} }}} \right]
-$$
+
+![image-20240515162143354](./imgs/image-20240515162143354.png)
+
 The network-based methods have a large number of neurons to fit it effectively.  In this paper, we descussed "Application of deep network in the FPP techinqe on HDR scenes by an end-to-end method".
 
 ## 1.2 Innovation
@@ -167,9 +167,9 @@ The results as follows:
 
 # 03 Acknowledge
 
-Currently, this work is processing in the journal <Optica>:
+Currently, this work is processing in the journal "Optica":
 
-> Jianbin Cao,  Xu Zhang, Guangya Zhou, and Dawei Tu, "HDR-Net: A HDR dataset of fringe projection based on deep network", 
+> "HDR-Net: A HDR dataset of fringe projection based on deep network", 
 
 This work is supported by the following funds:
 
