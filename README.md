@@ -1,6 +1,6 @@
 ![image-20240515162030448](./imgs/image-20240515162030448.png)
 
-The dataset will be updated after the paper is accepted by "Optica".
+This paper is processing in "OPTICS AND LASERS IN ENGINEERING".
 
 # 01 Introduction
 
@@ -169,7 +169,7 @@ The results as follows:
 
 Currently, this work is processing in the journal "Optica":
 
-> "HDR-Net: A HDR dataset of fringe projection based on deep network", 
+> "HDR-Net: A two-stage phase network of fringe projection profilometry for high-dynamic-range scenes", 
 
 This work is supported by the following funds:
 
