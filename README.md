@@ -1,6 +1,6 @@
 ![image-20240515162030448](./imgs/image-20240515162030448.png)
 
-This paper is processing in "OPTICS AND LASERS IN ENGINEERING". A preprint version is avaiable at URL: https://doi.org/10.1364/opticaopen.25864942
+This paper is processing in "Measurement". A preprint version is avaiable at URL: https://doi.org/10.1364/opticaopen.25864942
 
 # 01 Introduction
 
