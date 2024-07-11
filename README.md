@@ -167,7 +167,7 @@ The results as follows:
 
 # 03 Acknowledge
 
-Currently, this work is processing in the journal "Optica":
+Currently, this work is processing in the journal "Measurement":
 
 > "HDR-Net: A two-stage phase network of fringe projection profilometry for high-dynamic-range scenes", 
 
